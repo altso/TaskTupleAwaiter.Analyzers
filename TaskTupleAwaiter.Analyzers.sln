@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTupleAwaiter.Analyzers", "TaskTupleAwaiter.Analyzers\TaskTupleAwaiter.Analyzers\TaskTupleAwaiter.Analyzers.csproj", "{36AED1C8-34AF-488F-B584-1C0EF07F90BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTupleAwaiter.Analyzers.Test", "TaskTupleAwaiter.Analyzers\TaskTupleAwaiter.Analyzers.Test\TaskTupleAwaiter.Analyzers.Test.csproj", "{15468827-3C24-4970-828F-0B52310E0C79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTupleAwaiter.Analyzers.Vsix", "TaskTupleAwaiter.Analyzers\TaskTupleAwaiter.Analyzers.Vsix\TaskTupleAwaiter.Analyzers.Vsix.csproj", "{12078521-8F32-42BD-9609-7E2C771A4448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36AED1C8-34AF-488F-B584-1C0EF07F90BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36AED1C8-34AF-488F-B584-1C0EF07F90BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36AED1C8-34AF-488F-B584-1C0EF07F90BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36AED1C8-34AF-488F-B584-1C0EF07F90BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15468827-3C24-4970-828F-0B52310E0C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15468827-3C24-4970-828F-0B52310E0C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15468827-3C24-4970-828F-0B52310E0C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15468827-3C24-4970-828F-0B52310E0C79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12078521-8F32-42BD-9609-7E2C771A4448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12078521-8F32-42BD-9609-7E2C771A4448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12078521-8F32-42BD-9609-7E2C771A4448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12078521-8F32-42BD-9609-7E2C771A4448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F980AA-91EE-40C3-9329-9215977DD5BE}
+	EndGlobalSection
+EndGlobal
